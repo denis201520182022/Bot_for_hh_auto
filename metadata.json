@@ -1,0 +1,6 @@
+{
+  "name": "Готовый_бот_для_hh-ru_на_грог",
+  "description": "An intelligent assistant for searching, sorting, and applying to vacancies on HeadHunter, powered by Groq (Llama 3). Features manual and automatic application modes with advanced filtering and safety protocols.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
